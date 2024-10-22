@@ -1,2 +1,3 @@
-# BMC.C-
-This is C++ pratice for myself
+# BMC.C++
+This repository is for C++ pratice and lesson.
+
